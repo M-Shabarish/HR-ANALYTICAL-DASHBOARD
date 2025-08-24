@@ -18,4 +18,8 @@ An interactive dashboard providing real-time insights into employee demographics
 ## 🛠️ Tools Used
 - **Power BI** – interactive dashboards and storytelling with data  
 - **HR Analytics Dataset** – cleaned and modeled for insights
-- 
+
+##  Repository Structure
+- `HR Analytical Dashboard.pbix` → Power BI dashboard file  
+- `HR_Analytics.csv` → Dataset used for this project  
+- `README.md` → Documentation  
